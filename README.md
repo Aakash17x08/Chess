@@ -35,7 +35,7 @@ npm install
 
 ### Start the Server
 ```bash
-node server.js
+node app.js
 ```
 
 ### Open the Game in the Browser
@@ -49,9 +49,7 @@ The game is hosted on Render. Play here: [Chess Game](https://chess-vm3i.onrende
 ## 🎯 How to Play
 
 1. Open the game in your browser.
-2. Enter a **room name** and click **Join**.
-3. Share the room name with a friend to start a match.
-4. Play chess with real-time move updates!
+2. Play chess with real-time move updates!
 
 ## 📸 Screenshots
 (Add images or GIFs showcasing your game here)
